@@ -107,5 +107,3 @@ Typical plots may include distributions (histograms/kde), category counts (bar c
 Remove or anonymize personally identifiable or sensitive fields before publishing the notebook or results.
 
 ---
-
-*README generated on 2025-09-09 01:44:55 by an automated pass over the notebook to extract structure, imports, and common analysis steps. Feel free to refine sections with your domain insights and actual findings.*
